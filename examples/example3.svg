@@ -1,0 +1,6 @@
+
+        <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+            <rect width="80%" height="80%" x="10%" y="10%" fill="red" />
+            <text x="50%" y="50%" fill="blue" font-size="64" text-anchor="middle" alignment-baseline="middle">his</text>
+        </svg>
+    
